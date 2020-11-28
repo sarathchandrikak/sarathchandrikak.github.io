@@ -97,7 +97,7 @@ jQuery(document).ready(function($) {
     }*/
     $.ajax({
       type: "POST",
-      url: '/contactform/contactform.php',
+      url: 'https://github.com/sarathchandrikak/sarathchandrikak.github.io/blob/main/contactform/contactform.php',
       data: str,
       success: function(msg) {
         // alert(msg);
